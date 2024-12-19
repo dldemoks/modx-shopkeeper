@@ -1,8 +1,8 @@
 MODX
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download and unzip the archive.
+Then follow the attached instructions.
 
-Поддержка версии CMS Modx Evolution 1.0.14 c модулем Shopkeeper
+Support for CMS Modx Evolution 1.0.14 with Shopkeeper module
